@@ -1,5 +1,5 @@
 # An Introduction to Statistical Learning
-Here are some notes I took while reading *An Introduction to Statistical Learning* by Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani (Springer, [2023](https://www.statlearning.com/)).
+Here are some notes I am taking while reading *An Introduction to Statistical Learning* by Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani (Springer, [2023](https://www.statlearning.com/)).
 
 ## Table of Contents
 1. Introduction
